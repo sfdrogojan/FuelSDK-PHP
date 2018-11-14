@@ -1,5 +1,6 @@
 {
     "name": "dragos/php-sdk",
+    "version": "1.2.1",
     "description": "Salesforce Marketing Cloud Fuel SDK for PHP",
     "homepage": "https://developer.salesforce.com/docs/atlas.en-us.mc-sdks.meta/mc-sdks/index-sdk.htm",
     "license": "MIT",
